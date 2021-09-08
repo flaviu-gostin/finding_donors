@@ -8,3 +8,5 @@ dependencies:
   - ipython=7.26.0
   - numpy=1.20.3
   - scikit-learn=0.24.2
+  - notebook=6.4.3
+  - jupyter=1.0.0
