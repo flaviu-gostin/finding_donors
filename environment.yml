@@ -1,0 +1,10 @@
+name: finding_donors
+channels:
+  - defaults
+dependencies:
+  - python=3.8.10
+  - matplotlib=3.4.2
+  - pandas=1.3.2
+  - ipython=7.26.0
+  - numpy=1.20.3
+  - scikit-learn=0.24.2
