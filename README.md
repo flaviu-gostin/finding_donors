@@ -1,8 +1,8 @@
 # finding_donors
 
 Machine learning algorithms to identify potential donors from census data and
-reduce overhead cost of sending mail.  This is an assignment for the Udacity
-Nanodegree "Introduction to Machine Learning with TensorFlow.
+reduce overhead cost of sending mail.  This is my solution to an assignment for
+the Udacity Nanodegree "Introduction to Machine Learning with TensorFlow.
 
 
 The assignment material was taken from: <https://github.com/udacity/intro-to-ml-tensorflow/tree/master/projects/p1_charityml>
